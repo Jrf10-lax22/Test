@@ -1,4 +1,4 @@
-import sys
+#import sys
 
 print('Hello world')
 #print('Script name',sys.argv[0])
